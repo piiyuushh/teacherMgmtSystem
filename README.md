@@ -1,6 +1,6 @@
 # Teacher management system
 ## how to install
-download and install Java development kit (JDK). 
+download and install Java development kit (JDK). < br / >
 open terminal and use this command to check whether Java is installed or not.
 ```bash
 java -version
