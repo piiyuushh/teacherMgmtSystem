@@ -9,6 +9,8 @@ Then use this command in terminal to check java version
 ```bash
   java -version
 ```
+Run the ```TeacherGui.java``` file to execute the app.
+
 ### Objective of the project
 to understand the concept of method overriding, overloading, constructors, objects, awt and swing packages etc.
 
